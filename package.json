@@ -1,0 +1,16 @@
+{
+	"name": "token",
+	"description": "token",
+	"repository": "scrapo/token",
+	"version": "1.0.0",
+	"main": "token.js",
+	"scripts": {
+		"test": "mocha --ui tdd test"
+	},
+	"devDependencies": {
+		"mocha": "^3.1.2"
+	},
+	"dependencies": {
+		"jsonwebtoken": "^7.1.9"
+	}
+}
